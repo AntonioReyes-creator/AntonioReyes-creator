@@ -36,10 +36,11 @@ API Express que usa la API de OpenAI para clasificar y responder automáticament
 
 ## 📫 ¿Quieres contactarme?
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
-- 📧 tonnyreyes@email.com
-- 🌐 [Portafolio Web (en construcción)](https://tuusuario.github.io)
+- 💼 [LinkedIn](www.linkedin.com/in/antreyes)
+- 📧 tonny.reyes.y@gmail.com
+- 🌐 [Portafolio Web (en construcción)](https://AntonioReyes-creator.github.io)
 
 ---
 
-> “Aprender una tecnología cada día me acerca al futuro que quiero construir.”
+> "No tengo todas las respuestas, pero nunca dejo de buscarlas."
+> "No importa dónde empiece, lo importante es nunca dejar de avanzar."
